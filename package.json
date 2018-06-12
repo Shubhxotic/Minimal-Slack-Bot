@@ -1,0 +1,16 @@
+{
+  "name": "jokebot",
+  "version": "1.0.0",
+  "description": "joke Bot for YoMama jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
